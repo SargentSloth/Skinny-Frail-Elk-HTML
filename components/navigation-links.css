@@ -1,0 +1,385 @@
+.navigation-links-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links-link {
+  color: #ffffff;
+  width: var(--dl-size-size-medium);
+  height: auto;
+  font-size: 17px;
+  align-self: center;
+  font-style: normal;
+  margin-top: 5px;
+  text-align: center;
+  font-weight: 700;
+  margin-left: var(--dl-space-space-halfunit);
+  border-color: #ffffff;
+  border-width: 1px;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.navigation-links-navlink1 {
+  color: #ffffff;
+  width: var(--dl-size-size-medium);
+  height: 40px;
+  font-size: 30px;
+  align-self: center;
+  text-align: center;
+  font-family: "Impact";
+  margin-left: var(--dl-space-space-halfunit);
+  border-color: #ffffff;
+  border-width: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.navigation-links-navlink2 {
+  color: #ffffff;
+  width: var(--dl-size-size-medium);
+  height: auto;
+  font-size: 17px;
+  align-self: center;
+  font-style: normal;
+  margin-top: 5px;
+  text-align: center;
+  font-weight: 700;
+  margin-left: var(--dl-space-space-halfunit);
+  border-color: #ffffff;
+  border-width: 1px;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navigation-linksroot-class-name19 {
+  align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 767px) {
+  .navigation-links-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
